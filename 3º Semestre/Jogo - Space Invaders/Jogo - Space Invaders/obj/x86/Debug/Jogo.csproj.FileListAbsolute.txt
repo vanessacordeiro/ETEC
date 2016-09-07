@@ -1,0 +1,9 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\bin\Debug\Jogo.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\Jogo.frmSpace.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\Jogo.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\Jogo.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo\obj\x86\Debug\Jogo.pdb

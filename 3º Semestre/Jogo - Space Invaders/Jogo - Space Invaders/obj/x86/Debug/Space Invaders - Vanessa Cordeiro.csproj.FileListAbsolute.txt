@@ -1,0 +1,12 @@
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\bin\Debug\Space Invaders - Vanessa Cordeiro.exe
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\bin\Debug\Space Invaders - Vanessa Cordeiro.pdb
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Jogo.frmSpace.resources
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Jogo.frmMenu.resources
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Jogo.Properties.Resources.resources
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Space Invaders - Vanessa Cordeiro.exe
+I:\ETEC\3º Semestre\PC II\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Space Invaders - Vanessa Cordeiro.pdb
+F:\ETEC\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Space Invaders - Vanessa Cordeiro.exe
+F:\ETEC\Jogo - Space Invaders\Jogo - Space Invaders\obj\x86\Debug\Space Invaders - Vanessa Cordeiro.pdb
