@@ -1,0 +1,19 @@
+C:\Users\Etec\Desktop\Banco MME\Banco MME\bin\Debug\Banco MME.exe
+C:\Users\Etec\Desktop\Banco MME\Banco MME\bin\Debug\Banco MME.pdb
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\Banco_MME.Operacoes.resources
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\Banco_MME.Properties.Resources.resources
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\Banco MME.exe
+C:\Users\Etec\Desktop\Banco MME\Banco MME\obj\x86\Debug\Banco MME.pdb
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\Banco MME.exe
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\Banco MME.pdb
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\bin\Debug\Banco MME.exe
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\bin\Debug\Banco MME.pdb
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\Banco_MME.Operacoes.resources
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\Banco_MME.Properties.Resources.resources
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Etec\Desktop\Proj6 Banco MME\Banco MME\obj\x86\Debug\Banco_MME.Extrato.resources

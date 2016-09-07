@@ -1,0 +1,56 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\bin\Debug\23.07.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\bin\Debug\23.07.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\_23._07.Cad.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\_23._07.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\23.07.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\23.07\obj\x86\Debug\23.07.pdb
+I:\PCII\23.07\23.07\obj\x86\Debug\23.07.exe
+I:\PCII\23.07\23.07\obj\x86\Debug\23.07.pdb
+I:\PCII\23.07\23.07\bin\Debug\23.07.exe
+I:\PCII\23.07\23.07\bin\Debug\23.07.pdb
+I:\PCII\23.07\23.07\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\PCII\23.07\23.07\obj\x86\Debug\_23._07.Cad.resources
+I:\PCII\23.07\23.07\obj\x86\Debug\_23._07.Properties.Resources.resources
+I:\PCII\23.07\23.07\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\PCII\23.07\23.07\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\PC II\23.07\23.07\obj\x86\Debug\23.07.exe
+I:\PC II\23.07\23.07\obj\x86\Debug\23.07.pdb
+I:\PC II\23.07\23.07\bin\Debug\23.07.exe
+I:\PC II\23.07\23.07\bin\Debug\23.07.pdb
+I:\PC II\23.07\23.07\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\PC II\23.07\23.07\obj\x86\Debug\_23._07.Cad.resources
+I:\PC II\23.07\23.07\obj\x86\Debug\_23._07.Properties.Resources.resources
+I:\PC II\23.07\23.07\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\PC II\23.07\23.07\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\23.07.exe
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\23.07.pdb
+I:\3° Modulo\PC II - Donati\23.07\23.07\bin\Debug\23.07.exe
+I:\3° Modulo\PC II - Donati\23.07\23.07\bin\Debug\23.07.pdb
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\_23._07.Cad.resources
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\_23._07.Properties.Resources.resources
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\3° Modulo\PC II - Donati\23.07\23.07\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Etec\Desktop\23.07\23.07\obj\x86\Debug\23.07.exe
+C:\Users\Etec\Desktop\23.07\23.07\obj\x86\Debug\23.07.pdb
+C:\Users\Etec\Desktop\23.07\23.07\bin\Debug\23.07.exe
+C:\Users\Etec\Desktop\23.07\23.07\bin\Debug\23.07.pdb
+C:\Users\Etec\Desktop\23.07\23.07\obj\x86\Debug\_23._07.Cad.resources
+C:\Users\Etec\Desktop\23.07\23.07\obj\x86\Debug\_23._07.Properties.Resources.resources
+C:\Users\Etec\Desktop\23.07\23.07\obj\x86\Debug\23.07.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\23.07\23.07\obj\x86\Debug\_23._07.Crud.resources
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\obj\x86\Debug\23.07.exe
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\obj\x86\Debug\23.07.pdb
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\bin\Debug\23.07.exe
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\bin\Debug\23.07.pdb
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\obj\x86\Debug\_23._07.Crud.resources
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\obj\x86\Debug\_23._07.Cad.resources
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\obj\x86\Debug\_23._07.Properties.Resources.resources
+L:\3° Modulo\PC II - Donati\Cadastro\23.07\obj\x86\Debug\23.07.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Proj4 Arquivos\23.07\obj\x86\Debug\23.07.exe
+C:\Users\Etec\Desktop\Proj4 Arquivos\23.07\obj\x86\Debug\23.07.pdb
+I:\ETEC\3º Semestre\PC II\Proj4 Arquivos\23.07\obj\x86\Debug\23.07.exe
+I:\ETEC\3º Semestre\PC II\Proj4 Arquivos\23.07\obj\x86\Debug\23.07.pdb

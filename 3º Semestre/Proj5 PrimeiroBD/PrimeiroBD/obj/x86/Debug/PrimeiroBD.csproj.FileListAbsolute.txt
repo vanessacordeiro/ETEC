@@ -1,0 +1,27 @@
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\bin\Debug\PrimeiroBD.exe
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\bin\Debug\PrimeiroBD.pdb
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Form1.resources
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Properties.Resources.resources
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.exe
+C:\Users\Etec\Desktop\PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.pdb
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.exe
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.pdb
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\bin\Debug\PrimeiroBD.exe
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\bin\Debug\PrimeiroBD.pdb
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Properties.Resources.resources
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Cadastro.resources
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Pesquisa.resources
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.exe
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.pdb
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\bin\Debug\PrimeiroBD.exe
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\bin\Debug\PrimeiroBD.pdb
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Cadastro.resources
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Pesquisa.resources
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\PrimeiroBD.Properties.Resources.resources
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ETEC\3º Semestre\PC II\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Debug\GenerateResource.write.1.tlog

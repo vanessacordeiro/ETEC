@@ -1,0 +1,10 @@
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\bin\Release\PrimeiroBD.exe
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\bin\Release\PrimeiroBD.pdb
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\PrimeiroBD.Cadastro.resources
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\PrimeiroBD.Pesquisa.resources
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\PrimeiroBD.Properties.Resources.resources
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\PrimeiroBD.exe
+C:\Users\Etec\Desktop\Proj5 PrimeiroBD\PrimeiroBD\obj\x86\Release\PrimeiroBD.pdb
