@@ -1,0 +1,40 @@
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.exe
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.pdb
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Cadastro.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Caixa.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Estoque.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Tela1.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Opcoes.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Properties.Resources.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Relatorio.resources
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.csproj.GenerateResource.Cache
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.exe
+E:\ETEC\3º Módulo\PCII\WindowsForm\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.pdb
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.exe
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.pdb
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Cadastro.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Caixa.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Estoque.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Tela1.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Opcoes.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Properties.Resources.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Relatorio.resources
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.exe
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.pdb
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\bin\Release\bdMercado.mdb
+C:\Users\Etec\Desktop\Supermercado\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.exe.config
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\bin\Release\bdMercado.mdb
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.exe.config
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.exe
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\bin\Release\Sistema_Supermercado.pdb
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Cadastro.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Caixa.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Estoque.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Tela1.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Opcoes.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Properties.Resources.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.Relatorio.resources
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.exe
+C:\Users\Etec\Desktop\Supermercado (08_10)\Sistema_Supermercado\Sistema_Supermercado\obj\x86\Release\Sistema_Supermercado.pdb
